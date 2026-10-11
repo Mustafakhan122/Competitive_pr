@@ -9,6 +9,7 @@
 | [1122-relative-sort-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1472-design-browser-history) |
+| [1672-richest-customer-wealth](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1672-richest-customer-wealth) |
 | [2079-watering-plants](https://github.com/Mustafakhan122/Competitive_pr/tree/master/2079-watering-plants) |
 ## Simulation
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
