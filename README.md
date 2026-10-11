@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -133,4 +134,16 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
