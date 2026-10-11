@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0001-two-sum) |
+| [0179-largest-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0179-largest-number) |
 | [0739-daily-temperatures](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0739-daily-temperatures) |
 | [1122-relative-sort-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -48,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0179-largest-number) |
 | [1122-relative-sort-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Counting Sort
@@ -65,6 +67,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0179-largest-number) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Heap (Priority Queue)
 |  |
@@ -74,4 +77,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
