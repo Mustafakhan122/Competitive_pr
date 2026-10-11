@@ -34,6 +34,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0206-reverse-linked-list) |
 | [1472-design-browser-history](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
