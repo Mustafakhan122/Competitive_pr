@@ -146,4 +146,20 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0993-cousins-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0993-cousins-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0993-cousins-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0993-cousins-in-binary-tree](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0993-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
