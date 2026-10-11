@@ -24,6 +24,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
@@ -80,5 +81,10 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0179-largest-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
