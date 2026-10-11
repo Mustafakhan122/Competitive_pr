@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0001-two-sum) |
 | [0739-daily-temperatures](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0739-daily-temperatures) |
+| [1122-relative-sort-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1122-relative-sort-array) |
 | [1472-design-browser-history](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1472-design-browser-history) |
 | [2079-watering-plants](https://github.com/Mustafakhan122/Competitive_pr/tree/master/2079-watering-plants) |
 ## Simulation
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0001-two-sum) |
+| [1122-relative-sort-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1122-relative-sort-array) |
 ## Stack
 |  |
 | ------- |
@@ -41,4 +43,20 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1472-design-browser-history) |
+## Sorting
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1122-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
