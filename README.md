@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0217-contains-duplicate) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -57,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0242-valid-anagram) |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0993-cousins-in-binary-tree](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0993-cousins-in-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
