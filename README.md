@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0001-two-sum) |
 | [0179-largest-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0217-contains-duplicate) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0739-daily-temperatures](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0739-daily-temperatures) |
 | [1122-relative-sort-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -104,4 +105,32 @@
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mustafakhan122/Competitive_pr/tree/master/2073-time-needed-to-buy-tickets) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
