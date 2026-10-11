@@ -11,10 +11,12 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1472-design-browser-history](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1472-design-browser-history) |
 | [1672-richest-customer-wealth](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1672-richest-customer-wealth) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mustafakhan122/Competitive_pr/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/Mustafakhan122/Competitive_pr/tree/master/2079-watering-plants) |
 ## Simulation
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mustafakhan122/Competitive_pr/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/Mustafakhan122/Competitive_pr/tree/master/2079-watering-plants) |
 ## Hash Table
 |  |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0206-reverse-linked-list) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Mustafakhan122/Competitive_pr/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
