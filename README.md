@@ -24,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1122-relative-sort-array) |
 ## Stack
 |  |
@@ -57,6 +58,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1122-relative-sort-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Counting Sort
@@ -89,6 +91,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0242-valid-anagram) |
 ## Bracket Sequences
 |  |
 | ------- |
