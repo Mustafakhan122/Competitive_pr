@@ -16,11 +16,13 @@
 | [1672-richest-customer-wealth](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1672-richest-customer-wealth) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mustafakhan122/Competitive_pr/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/Mustafakhan122/Competitive_pr/tree/master/2079-watering-plants) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mustafakhan122/Competitive_pr/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Mustafakhan122/Competitive_pr/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/Mustafakhan122/Competitive_pr/tree/master/2079-watering-plants) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mustafakhan122/Competitive_pr/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1122-relative-sort-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mustafakhan122/Competitive_pr/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -43,6 +46,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0206-reverse-linked-list) |
 | [1472-design-browser-history](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1472-design-browser-history) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mustafakhan122/Competitive_pr/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -51,6 +55,7 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1472-design-browser-history) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mustafakhan122/Competitive_pr/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -85,6 +90,7 @@
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Mustafakhan122/Competitive_pr/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mustafakhan122/Competitive_pr/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -132,6 +138,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mustafakhan122/Competitive_pr/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mustafakhan122/Competitive_pr/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Treap
 |  |
 | ------- |
